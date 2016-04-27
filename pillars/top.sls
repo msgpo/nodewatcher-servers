@@ -1,4 +1,4 @@
 base:
-  'aggregator':
-    - aggregator
+  'nodewatcher':
+    - nodewatcher
 

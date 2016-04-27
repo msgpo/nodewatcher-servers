@@ -1,0 +1,5 @@
+nodewatcher:
+  host: nodewatcher.sudomesh.org
+  port: 22
+  user: root
+
