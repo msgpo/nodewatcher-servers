@@ -1,6 +1,9 @@
 python-ipaddr:
   pkg.installed
 
+python-dev:
+  pkg.installed
+
 pkg-config:
   pkg.installed
 
